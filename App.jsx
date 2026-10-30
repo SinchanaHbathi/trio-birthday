@@ -7,7 +7,9 @@ import "./App.css";
 // Put your files inside public/memories/
 // =====================================
 
-const childhoodPhoto = "/memories/childhood.jpeg";
+
+const childhoodPhoto = `${import.meta.env.BASE_URL}memories/childhood.jpeg`;
+
 
 const galleryPhotos = [
   "/memories/photo1.jpeg",
