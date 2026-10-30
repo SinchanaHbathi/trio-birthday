@@ -841,7 +841,7 @@ function SpecialDay() {
           ))}
         </div>
 
-        <p className="trio-signature">YOUR TRIO · ALWAYS THREE</p>
+        <p className="trio-signature">WE TRIO · ALWAYS THREE</p>
 
         <div className="birthday-hearts">♡ ✦ ♡ ✦ ♡</div>
 
